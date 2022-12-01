@@ -35,6 +35,21 @@ Atualmente estou em formação pela Cubos Academy 📚, estando imerso no ecossi
 
 ## Contato
 
+<a target="_blank" href="https://www.linkedin.com/in/rafael-souza-dev/"> 
+<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/link-1.png" style="width:70px"/> 
+</a>
+<a target="_blank" href="mailto:rafael93.souzasfc5@gmail.com"> 
+<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/mail-1.png" style="width:70px"/> 
+</a>
+<a target="_blank" href="https://wa.me/553192115232"> 
+<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/whats-1.png" style="width:70px"/> 
+</a>
+<a target="_blank" href="https://www.instagram.com/rsdesignerbh/"> 
+<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/insta-1.png" style="width:70px"/> 
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCyQ7lStYCLwqTRXauOeguJQ"> 
+<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/youtube-1.png" style="width:70px"/> 
+</a>
 <!--
 **rafael93souza/rafael93souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
