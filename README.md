@@ -10,7 +10,7 @@ Tenho facilidade em aprender coisas novas, gosto de vencer meus desafios e busco
 
 <strong><i>Eu acredito que através da programação não criamos produtos, nós criamos experiência para o usuário!</i></strong>
 
-Atualmente estou em formação pela Cubos Academy 📚, estando imerso no ecossistema JavaScript, no front-end com ReactJS, HTML e CSS e no back-end com NodeJS, Express, API REST, Postgres, Bcrypt (Biblioteca de criptografia), JSON Web Tokens (autenticação e criação de token) bucando minha primeira oportunidade como desenvolvedor.
+Atualmente estou em formação pela Cubos Academy 📚, estando imerso no ecossistema JavaScript, no front-end com ReactJS, HTML e CSS e no back-end com NodeJS, Express, API REST, Postgres, Bcrypt (Biblioteca de criptografia), JSON Web Tokens (autenticação e criação de token) buscando minha primeira oportunidade como desenvolvedor.
 
 </br>
 
