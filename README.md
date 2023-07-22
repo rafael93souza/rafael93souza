@@ -14,10 +14,22 @@ Formação pela Cubos Academy 📚, onde estive imerso no ecossistema JavaScript
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael93souza&show_icons=true&theme=dracula&bg_color=DEG,FF0A6C,2D27FF&title_color=fafafa&icon_color=fafafa)
+## Atividades
+<div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael93souza&bg_color=0d1117&color=2e26fc&line=ed0a52&point=ed0a52&area=true&hide_border=true" />
+</div>
+<br/><br/>
+<div>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rafael93souza&theme=ambient-gradient&hide_border=true&border_radius=5.2&locale=pt_BR&background=45%2CFC0B6E%2C3126FC" alt="rafael93souza" />
 
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael93souza&show_icons=true&theme=dracula&bg_color=DEG,FF0A6C,2D27FF&title_color=fafafa&icon_color=fafafa&locale=en&layout=compact&hide_border=true" alt="rafael93souza" />
+</div>
+  <br/>
+  <br/>
+<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael93souza&show_icons=true&theme=dracula&bg_color=DEG,FF0A6C,2D27FF&title_color=fafafa&icon_color=fafafa" alt="rafael93souza" />
+</div>
 </br>
-
 
 ### Tecnologias que eu uso no meu dia a dia
 
