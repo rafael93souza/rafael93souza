@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Rafael Souza,
 ### E você é muito bem vindo(a) ao meu universo! 🚀
 
-<p> Tenho 31 Anos, sou natural de São Paulo – SP, mas moro em Minas Gerais a quase 20 anos UAI, e a mais de um ano realizei a minha migração de carreira da área de designer gráfico e digital para área de desenvolvimento  <strong><i>(Não queria apenas criar telas, queria dar vida a elas através da programação)</i></strong></p>
+<p> Tenho 31 Anos, sou natural de São Paulo – SP, mas moro em Minas Gerais a quase 20 anos UAI, e a mais de dois ano realizei a minha migração de carreira da área de designer gráfico e digital para área de desenvolvimento  <strong><i>(Não queria apenas criar telas, queria dar vida a elas através da programação)</i></strong></p>
 
 Estudando programação eu meu apaixonei por Back-end com o NodeJS 😍, mas quando vejo o front-end o coração bate forte, ainda mais se estiver acompanhado de ReactJS ❤ Por isso acredito que estou preso nesse triangulo amoroso de full stack. 
 
