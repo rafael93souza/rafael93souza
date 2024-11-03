@@ -1,4 +1,4 @@
-![image](https://images-profiles.s3.us-west-004.backblazeb2.com/image-3.png)
+![image](https://f004.backblazeb2.com/file/images-profiles/image/capa.png)
 ## Olá! Eu sou o Rafael Souza,
 ### E você é muito bem vindo(a) ao meu universo! 🚀
 
@@ -16,31 +16,51 @@ Formação pela Cubos Academy 📚, onde estive imerso no ecossistema JavaScript
 
 ## Atividades
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael93souza&bg_color=0d1117&color=2e26fc&line=ed0a52&point=ed0a52&area=true&hide_border=true" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael93souza&bg_color=0d1117&color=2e26fc&line=480f77&point=701cb1&area=true&hide_border=true" />
 </div>
 <br/><br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rafael93souza&theme=ambient-gradient&hide_border=true&border_radius=5.2&locale=pt_BR&background=45%2CFC0B6E%2C3126FC" alt="rafael93souza" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rafael93souza&theme=ambient-gradient&hide_border=true&border_radius=5.2&locale=pt_BR&background=480f77" alt="rafael93souza" />
 
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael93souza&show_icons=true&theme=dracula&bg_color=DEG,FF0A6C,2D27FF&title_color=fafafa&icon_color=fafafa&locale=en&layout=compact&hide_border=true" alt="rafael93souza" />
+
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael93souza&show_icons=true&theme=dracula&bg_color=480f77&title_color=fafafa&icon_color=fafafa&locale=en&layout=compact&hide_border=true" alt="rafael93souza" />
 </div>
   <br/>
   <br/>
 <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael93souza&show_icons=true&theme=dracula&bg_color=DEG,FF0A6C,2D27FF&title_color=fafafa&icon_color=fafafa" alt="rafael93souza" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael93souza&show_icons=true&theme=dracula&bg_color=480f77&title_color=fafafa&icon_color=fafafa" alt="rafael93souza" />
 </div>
 </br>
 
-### Tecnologias que eu uso no meu dia a dia
+### Tecnologias que conheço, incluindo algumas que uso no meu dia a dia
 
 </br>
 
-<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-12.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-11.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-13.png" style="width:70px"/> 
-<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-14.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-8.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-10.png" style="width:70px"/> 
-<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-5.png" style="width:70px"/> 
+<div >
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/1-icon-novos-html.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/2-icon-novos-css.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/2-icon-novos-sass.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/2-icon-novos-styled.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/3-icon-novos-ts.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/3-icon-novos-js.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/4-icon-novos-nextjs.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/4-icon-novos-reactjs.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/5-icon-novos-figma.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/6-icon-novos-aws.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/6-icon-novos-docker.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/6-icon-novos-terraform.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/6-icon-novos-node.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/7-icon-novos-sql.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/8-icon-novos-postgres.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/9-icon-novos-github.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/10-icon-novos-git.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/11-icon-novos-jwr.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/12-icon-novos-beekeape.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/13-icon-novos-insomnia.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/14-icon-novos-vscode.png" style="width:65px"/> 
+<img src ="https://f004.backblazeb2.com/file/images-profiles/image/15-icon-novos-prismic.png" style="width:65px"/> 
+</div>
 
-
-<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-9.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-6.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-15.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-7.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-3.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-4.png" style="width:70px"/> <img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/icon-2.png" style="width:70px"/>
 
 
 </br>
