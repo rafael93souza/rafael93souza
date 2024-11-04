@@ -1,4 +1,4 @@
-![image](https://f004.backblazeb2.com/file/images-profiles/image/capa.png)
+![image](https://f004.backblazeb2.com/file/images-profiles/image/capa2.png)
 ## Olá! Eu sou o Rafael Souza,
 ### E você é muito bem vindo(a) ao meu universo! 🚀
 
